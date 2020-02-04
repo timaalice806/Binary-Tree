@@ -39,7 +39,6 @@ namespace Binary_Search_Tree
                         {
                             current = current.rightChild;
                         }
-
                     }
                     else
                     {
@@ -54,8 +53,7 @@ namespace Binary_Search_Tree
                         }
                     }
                 }
-            }
-           
+            }     
         }
         public bool Search(int num)
         {
