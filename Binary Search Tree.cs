@@ -12,7 +12,6 @@ namespace Binary_Search_Tree
         public Node root;
 
         //MEMBER METHODS (BST CAN DO..)
-
         public void Add(int num)
         {
             Node current; 
